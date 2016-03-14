@@ -8,11 +8,11 @@
 
 	function Sliders() {
 		SliderInit({
-			slider: '.slider'
+			slider: '.slider-name'
 		});
 
 		SliderInit({
-			slider: '.slider-secondary .slides',
+			slider: '.slider-name',
 			res1024: 5,
 			res768: 3,
 			res0: 1,
